@@ -7,7 +7,7 @@ int b = 2;
 printf("%i\n", a+b);
 printf("%i\n", b-a);
 printf("%i\n", a*b);
-
+printf("%i\n", b/a);
 }
 
 
