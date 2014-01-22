@@ -13,6 +13,7 @@ printf("%i\n", b/a);
 printf("Enter in 4 Numbers:\n");
 scanf("%i %i %i %i", &c,&d,&e,&f);
 printf("\n %i is the average\n", (c+d+e+f)/4);
+
+printf("remainder of %i and %i is %i\n", a, b, a%b);
+
 }
-
-
