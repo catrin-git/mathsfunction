@@ -1,6 +1,6 @@
 
 //this line is causing the issue in the conflict branch
-
+//this is the second line causing issue on the conflict branch
 #include <stdio.h>
 int main()
 {
